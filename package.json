@@ -1,6 +1,6 @@
 {
   "name": "@stuccillo/streetmerchant",
-  "version": "1.0.0",
+  "version": "3.6.0",
   "description": "The world's easiest, most powerful stock checker",
   "main": "src/index.ts",
   "scripts": {
