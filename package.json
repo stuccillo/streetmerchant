@@ -1,6 +1,6 @@
 {
-  "name": "streetmerchant",
-  "version": "3.5.0",
+  "name": "@stuccillo/streetmerchant",
+  "version": "1.0.0",
   "description": "The world's easiest, most powerful stock checker",
   "main": "src/index.ts",
   "scripts": {
@@ -84,5 +84,9 @@
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4",
     "webpack": "^5.35.0"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
   }
 }
